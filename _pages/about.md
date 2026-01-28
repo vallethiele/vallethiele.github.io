@@ -27,7 +27,10 @@ social: false # includes social icons at the bottom of the page
 #  limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. Previously, I completed the Master's programmes at Bonn and Cambridge. I am interested in arithmetic geometry.
+I am a first year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. Previously, I completed the Master's programmes at Bonn and Cambridge.
+
+
+I am interested in arithmetic geometry.
 
 
 My Master's thesis (supervised by Peter Scholze):  
