@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Contact: lmv40 (at) cam (dot) ac (dot) uk
 
 profile:
   align: right
@@ -30,8 +30,6 @@ social: false # includes social icons at the bottom of the page
 I am a first year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. I am interested in arithmetic geometry.
 
 Previously, I completed the Master's programmes at Bonn and Cambridge.
-
-Contact: lmv40 (at) cam (dot) ac (dot) uk
 
 My Master's thesis (supervised by Peter Scholze):
 [Tempered holomorphic functions in analytic geometry](https://vallethiele.github.io/assets/pdf/msc_thesis.pdf).
