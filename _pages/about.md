@@ -31,4 +31,6 @@ I am a first year PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/
 
 Previously, I completed the Master's programmes at Bonn and Cambridge.
 
+Contact: lmv40 (at) cam (dot) ac (dot) uk
+
 My Master's thesis (supervised by Peter Scholze): [Tempered holomorphic functions in analytic geometry](https://vallethiele.github.io/assets/pdf/msc_thesis.pdf).
