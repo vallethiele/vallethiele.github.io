@@ -34,4 +34,4 @@ I am interested in arithmetic geometry.
 
 
 My Master's thesis (supervised by Peter Scholze):  
-[Tempered holomorphic functions in analytic geometry](https://vallethiele.github.io/assets/pdf/msc_thesis.pdf)
+[Tempered holomorphic functions in analytic geometry](https://vallethiele.github.io/assets/pdf/mscthesis.pdf)
