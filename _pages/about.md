@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: lmv40 (at) cam (dot) ac (dot) uk
+subtitle: Email: lmv40 (at) cam (dot) ac (dot) uk
 
 profile:
   align: right
