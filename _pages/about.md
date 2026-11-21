@@ -6,7 +6,7 @@ subtitle: "Email: lmv40(at)cam(dot)ac(dot)uk"
 
 profile:
   align: right
-  image: photolucas.jpg
+  image: photolucas.jpeg
   image_circular: false # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
