@@ -30,7 +30,7 @@ social: false # includes social icons at the bottom of the page
 I am a PhD student of [Rong Zhou](https://www.dpmms.cam.ac.uk/~rz240/) at the University of Cambridge. Previously, I completed the Master's programmes at Bonn and Cambridge.
 
 
-I am interested in arithmetic geometry. You can find my CV [here](https://vallethiele.github.io/cv.pdf).
+I am interested in arithmetic geometry. You can find my CV [here](https://vallethiele.github.io/cv.pdf)
 
 
 My Master's thesis (supervised by Peter Scholze):  
